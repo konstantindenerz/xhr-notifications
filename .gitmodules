@@ -1,0 +1,3 @@
+[submodule "lockjs"]
+	path = lockjs
+	url = git@github.com:konstantindenerz/lockjs.git
